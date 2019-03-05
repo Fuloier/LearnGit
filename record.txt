@@ -1,1 +1,2 @@
-created a new branch "dev"
+created a new branch "dev".
+creating a new branch is quick and simple.
